@@ -1,0 +1,3 @@
+﻿{
+  "StorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=rmgspcosmosdb;AccountKey=XkwGf6n3UNI2Qwqk4wrcjRYtLnFBBUKFde66l31Cxvnce5TIhUoceplWWpRlVG6ppBX8I5NrZGZPrtOv2De1Uw==;TableEndpoint=https://rmgspcosmosdb.table.cosmos.azure.com:443/;"
+}
