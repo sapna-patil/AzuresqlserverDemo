@@ -1,0 +1,7 @@
+D:\MyProject\WebJobDemo\WebJobDemo\bin\Debug\WebJobDemo.exe.config
+D:\MyProject\WebJobDemo\WebJobDemo\bin\Debug\WebJobDemo.exe
+D:\MyProject\WebJobDemo\WebJobDemo\bin\Debug\WebJobDemo.pdb
+D:\MyProject\WebJobDemo\WebJobDemo\obj\Debug\WebJobDemo.csprojAssemblyReference.cache
+D:\MyProject\WebJobDemo\WebJobDemo\obj\Debug\WebJobDemo.csproj.CoreCompileInputs.cache
+D:\MyProject\WebJobDemo\WebJobDemo\obj\Debug\WebJobDemo.exe
+D:\MyProject\WebJobDemo\WebJobDemo\obj\Debug\WebJobDemo.pdb
